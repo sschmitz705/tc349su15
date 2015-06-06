@@ -1,1 +1,17 @@
-Amiibo Collectors Guide
+AmAmiibo Collectors Guide
+  Sections
+    Main page
+      Recent News (any post in the last 3 weeks)
+      Links to other sections
+    Collection 
+      Shows currently released Amiibo (game they work with, stores they are sold at, release date, in coeloms of three)
+      Upcoming release and releases for rare amiibo
+    Tutorial
+      Links to sub-sections
+        Training guides 
+        Building/Customization guides
+      Section to submit new tutorials
+    Contact page
+      contact me/mods
+    FAQ
+    Discussion page
