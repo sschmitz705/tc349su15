@@ -1,4 +1,4 @@
 While I was designing the mock up web page I based its design on Nintendo’s official Amiibo Web site and mixed it with 
 elements from blogs to make it more news focused to allow users to find new information as quickly as possible. This is my 
 main focused since the Nintendo pages dos not have the most up to date information and has a fairly poor layout for new 
-information. 
+information. I have the Nav Bar on top with glyphicons to start a uniformed template for all my pages. The refresh symbol, I thought would be cool if it changed the format of that section like filtering my name or specific game or series of origin.
