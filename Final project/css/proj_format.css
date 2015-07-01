@@ -1,0 +1,31 @@
+nav{
+  font-family: helvetica, sans-serif;
+  font-size:24px;
+
+}
+.thumbnail {
+  border: 1px solid #100000;
+  border-radius: 4px;
+}
+.thumbnail .caption {
+  padding: 9px;
+  color: #8ED357;
+}
+.panel-default {
+  border: 1px solid #100000;
+  border-radius: 4px;
+}
+.panel-default {
+  border: 1px solid #100000;
+  border-radius: 4px;
+  padding: 5px;
+}
+.row.side{
+	padding:5px;
+}
+@media (max-width: 1000px) {
+	nav{
+	  font-family: helvetica, sans-serif;
+	  font-size:15px;
+	}
+}
