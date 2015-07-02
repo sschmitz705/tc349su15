@@ -1,15 +1,16 @@
-nav{
+.nav{
   font-family: helvetica, sans-serif;
   font-size:24px;
 
 }
+
 .thumbnail {
   border: 1px solid #100000;
   border-radius: 4px;
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #8ED357;
+  color: green;
 }
 .panel-default {
   border: 1px solid #100000;
@@ -24,7 +25,7 @@ nav{
 	padding:5px;
 }
 @media (max-width: 1000px) {
-	nav{
+	.nav{
 	  font-family: helvetica, sans-serif;
 	  font-size:15px;
 	}
